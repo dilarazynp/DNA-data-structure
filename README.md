@@ -5,19 +5,19 @@ Bu programda, MinGW C++ ortamında bağlı listeler (Linked List) kullanılarak 
 
 ## Geliştirilen Programın İşlevleri:
 
-Çaprazlama:
+- Çaprazlama:
 Kullanıcıdan iki kromozom satır numarası alınarak çaprazlama işlemi yapılacak ve yeni kromozomlar popülasyona eklenecektir.
 
-Mutasyon:
+- Mutasyon:
 Kullanıcıdan bir kromozom satır ve gen sütun numarası alınacak, ilgili gen X karakterine dönüştürülecektir.
 
-Otomatik İşlemler:
+- Otomatik İşlemler:
 Islemler.txt dosyasından işlemler okunarak sırasıyla uygulanacaktır.
 
-Ekrana Yaz:
+- Ekrana Yaz:
 Her kromozomun en küçük genini bulup ekrana yazdıracaktır.
 
-Çıkış:
+- Çıkış:
 Programdan çıkış yapılacaktır.
 
 Hazır veri yapıları ve şablon (generic) veri yapıları kullanılmamıştır.
