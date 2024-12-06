@@ -22,5 +22,5 @@ Programdan çıkış yapılacaktır.
 
 Hazır veri yapıları ve şablon (generic) veri yapıları kullanılmamıştır.
 
-##Yazar
+## Yazar
 -Zeynep Dilara Kurnaz
